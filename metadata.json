@@ -1,0 +1,5 @@
+{
+  "name": "4500 Word Text-to-Speech",
+  "description": "A web application to generate single-speaker or multi-speaker audio from text using the Gemini Text-to-Speech API. Adjust voice, temperature, and other model settings.",
+  "requestFramePermissions": []
+}
